@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/progweb-portfolio/static/css/main.5f361e03.chunk.css",
+    "main.js": "/progweb-portfolio/static/js/main.8b491aa8.chunk.js",
+    "main.js.map": "/progweb-portfolio/static/js/main.8b491aa8.chunk.js.map",
+    "runtime-main.js": "/progweb-portfolio/static/js/runtime-main.815962ba.js",
+    "runtime-main.js.map": "/progweb-portfolio/static/js/runtime-main.815962ba.js.map",
+    "static/js/2.40114c41.chunk.js": "/progweb-portfolio/static/js/2.40114c41.chunk.js",
+    "static/js/2.40114c41.chunk.js.map": "/progweb-portfolio/static/js/2.40114c41.chunk.js.map",
+    "index.html": "/progweb-portfolio/index.html",
+    "precache-manifest.6f0024dc19af3a6aa261d0be384bc454.js": "/progweb-portfolio/precache-manifest.6f0024dc19af3a6aa261d0be384bc454.js",
+    "service-worker.js": "/progweb-portfolio/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/progweb-portfolio/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.40114c41.chunk.js.LICENSE.txt": "/progweb-portfolio/static/js/2.40114c41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.815962ba.js",
+    "static/js/2.40114c41.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8b491aa8.chunk.js"
+  ]
+}
