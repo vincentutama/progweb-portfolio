@@ -50,7 +50,7 @@ export default class Projects extends Component {
                           topology of the airframe structural components like the main body, mounts, and landing gear to
                           accommodate successful manufacturing using 3D printing and CNC routing.
                           </p>
-                          <img src="/images/drone.png" style={{height:"300px"}} alt="Drone image" />
+                          <img src="url(/images/drone.png)" style={{height:"300px"}} alt="none" />
                       </div>
                     </div>
                   </article>
