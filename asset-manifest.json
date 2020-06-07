@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/progweb-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/progweb-portfolio/static/js/main.e4cc2dce.chunk.js",
-    "main.js.map": "/progweb-portfolio/static/js/main.e4cc2dce.chunk.js.map",
+    "main.js": "/progweb-portfolio/static/js/main.018ed561.chunk.js",
+    "main.js.map": "/progweb-portfolio/static/js/main.018ed561.chunk.js.map",
     "runtime-main.js": "/progweb-portfolio/static/js/runtime-main.815962ba.js",
     "runtime-main.js.map": "/progweb-portfolio/static/js/runtime-main.815962ba.js.map",
     "static/js/2.40114c41.chunk.js": "/progweb-portfolio/static/js/2.40114c41.chunk.js",
     "static/js/2.40114c41.chunk.js.map": "/progweb-portfolio/static/js/2.40114c41.chunk.js.map",
     "index.html": "/progweb-portfolio/index.html",
-    "precache-manifest.0b0aaf8cf367069923709bcc13e61c3e.js": "/progweb-portfolio/precache-manifest.0b0aaf8cf367069923709bcc13e61c3e.js",
+    "precache-manifest.3deccaa737e9b7511fa5ca2fbcfb239e.js": "/progweb-portfolio/precache-manifest.3deccaa737e9b7511fa5ca2fbcfb239e.js",
     "service-worker.js": "/progweb-portfolio/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/progweb-portfolio/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.40114c41.chunk.js.LICENSE.txt": "/progweb-portfolio/static/js/2.40114c41.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.815962ba.js",
     "static/js/2.40114c41.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e4cc2dce.chunk.js"
+    "static/js/main.018ed561.chunk.js"
   ]
 }
