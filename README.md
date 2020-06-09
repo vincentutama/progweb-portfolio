@@ -1,6 +1,6 @@
 # Halaman Portfolio
 
-Di buat menggunakan ReactJS.
+Dibuat menggunakan ReactJS.
 
 Web single page untuk portfolio. Di deploy di:
 https://vincentutama.github.io/progweb-portfolio/
